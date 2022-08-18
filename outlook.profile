@@ -1,6 +1,6 @@
 set sample_name "outlook.profile";
-set sleeptime "30000";
-set jitter "50";
+set sleeptime "10000";
+set jitter "27";
 set host_stage "false";
 set useragent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36";
 
